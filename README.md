@@ -1,0 +1,1 @@
+# to-display-and-find-the-sum-of-a-list-of-numbers-using-while-loop
